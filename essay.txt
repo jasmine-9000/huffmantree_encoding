@@ -1,0 +1,16 @@
+todo @param:
+brown: 	0: background . brow
+red: 	1 p:What is the religious system described by the author?
+orange: 2 P:How did this religious system grow out of and interact 
+			with the surrounding intellectual/spiritual culture?
+green:	3 P:How did this religious system grow out of and interact 
+			with the surrounding social/political environment?
+blue:	4 P:What was the nature of the author’s own religious 
+			experience? How was the crisis/crises resolved?
+
+cyan:	5 P:In other words – the primary questions to be answered are –
+	Who is that believer?
+	What is the world of the believer?
+	What are the connections among the individual, the religious system, and the
+		Surrounding world?
+indigo: 6 P: conclusion
